@@ -19,7 +19,7 @@ ADMIN_TELEGRAM_ID = '-1002611999679'
 # ===============================================================
 # !!! انتبه: الصق رابط قاعدة البيانات الخاص بك هنا !!!
 # تأكد أنه يبدأ بـ mysql+pymysql وأزل ?ssl-mode=REQUIRED من النهاية
-DATABASE_URL = "mysql+pymysql://avnadmin:YOUR_PASSWORD@YOUR_HOST:YOUR_PORT/defaultdb"
+DATABASE_URL = "mysql://avnadmin:AVNS_STaeS8Q8sjDFN2T29RL@mysql-230889fb-mohamedpython1-dae0.b.aivencloud.com:10119/defaultdb?ssl-mode=REQUIRED"
 
 # يحدد مسار شهادة SSL (ملف ca.pem)
 # يفترض أن ملف ca.pem موجود في نفس مجلد هذا السكريبت
